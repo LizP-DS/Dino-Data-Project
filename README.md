@@ -10,8 +10,11 @@ The data is sourced from Kaggle (https://www.kaggle.com/datasets/kjanjua/jurassi
 
 
 ## Methodology
+ljkdfslkjkl
 
 ## Results
+jlkjkljlkjlk
+![histogram info](Images/histogram1.png)
 
 ## Conclusion
 
